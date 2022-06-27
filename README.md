@@ -15,3 +15,6 @@ GArchi is a separate software to improve the work with ArchiSteamFarm software
 2. Download the latest full version [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/releases)
 3. Extract ArchiSteamFarm files inside ArchiSteamFarm-Base folder
 4. Run GArchi
+
+<p align="center"><img src="https://i.ibb.co/6X1FgZT/GArchi1.jpg"></p>
+<p align="center"><img src="https://i.ibb.co/6y3Yd6q/GArchi2.jpg"></p>
