@@ -11,5 +11,7 @@ GArchi is a separate software to improve the work with ArchiSteamFarm software
 
 > **Setup:**
 
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
