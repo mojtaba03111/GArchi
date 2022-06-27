@@ -7,7 +7,7 @@
 About GArchi
 -------------
 
-GArchi is a separate software to improve the work with ArchiSteamFarm software
+GArchi is a standalone application for improving the performance of ArchiSteamFarm software
 
 > **Setup:**
 
