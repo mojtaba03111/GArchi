@@ -6,3 +6,5 @@
 
 About GArchi
 -------------
+
+GArchi is a separate software to improve the work with ArchiSteamFarm software
