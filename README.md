@@ -4,5 +4,5 @@
 ----------
 
 
-How to install:
+About GArchi
 -------------
