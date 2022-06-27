@@ -11,5 +11,5 @@ GArchi is a separate software to improve the work with ArchiSteamFarm software
 
 > **Setup:**
 
-[ ] An uncompleted task
+[] An uncompleted task
 [x] A completed task
